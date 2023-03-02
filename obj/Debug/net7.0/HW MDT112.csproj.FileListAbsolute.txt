@@ -1,0 +1,15 @@
+/Users/thipwareeaunruean/Desktop/HW MDT112/bin/Debug/net7.0/HW MDT112
+/Users/thipwareeaunruean/Desktop/HW MDT112/bin/Debug/net7.0/HW MDT112.deps.json
+/Users/thipwareeaunruean/Desktop/HW MDT112/bin/Debug/net7.0/HW MDT112.runtimeconfig.json
+/Users/thipwareeaunruean/Desktop/HW MDT112/bin/Debug/net7.0/HW MDT112.dll
+/Users/thipwareeaunruean/Desktop/HW MDT112/bin/Debug/net7.0/HW MDT112.pdb
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/HW MDT112.csproj.AssemblyReference.cache
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/HW MDT112.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/HW MDT112.AssemblyInfoInputs.cache
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/HW MDT112.AssemblyInfo.cs
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/HW MDT112.csproj.CoreCompileInputs.cache
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/HW MDT112.dll
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/refint/HW MDT112.dll
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/HW MDT112.pdb
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/HW MDT112.genruntimeconfig.cache
+/Users/thipwareeaunruean/Desktop/HW MDT112/obj/Debug/net7.0/ref/HW MDT112.dll
